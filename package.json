@@ -1,0 +1,27 @@
+{
+  "name": "who-api",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": "",
+  "dependencies": {
+    "async": "1.5.2",
+    "body-parser": "~1.13.2",
+    "cloudinary": "^1.2.6",
+    "express": "~4.13.3",
+    "mongoose": "4.3.6",
+    "request": "2.67.0",
+    "socket.io": "~1.0.6",
+    "mongodb": "2.1.4",
+    "morgan": "1.6.1",
+    "google-id-token": "0.1.5",
+    "path": "0.12.7",
+    "node-xcs": "0.1.5",
+    "mocha": "2.3.4",
+    "winston": "2.1.1",
+    "debug": "2.2.0"
+    
+  }
+}
